@@ -1,0 +1,2 @@
+In order to view the results of the various experiments, run the MATLAB function called main. This function runs each of the necessary
+functions and displays the appropriately named output in the console window, if textual, or as a figure, if graphical.

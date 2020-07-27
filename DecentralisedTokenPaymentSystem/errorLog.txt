@@ -1,0 +1,36 @@
+Member authentication error at timestep  2 From account  1 To account  2, invalid session key pair
+Double spending error at timestep  3 From account  1 To account  2 Of proposed token identifier     9
+Member authentication error at timestep  2 From account  1 To account  2, invalid session key pair
+Double spending error at timestep  3 From account  1 To account  2 Of proposed token identifier     9
+Member authentication error at timestep  2 From account  1 To account  2, invalid session key pair
+Double spending error at timestep  3 From account  1 To account  2 Of proposed token identifier     9
+Member authentication error at timestep  2 From account  1 To account  2, invalid session key pair
+Double spending error at timestep  3 From account  1 To account  2 Of proposed token identifier     9
+Byzantine error occured from node  1
+---------------------------Block  1---------------------------
+Byzantine error occured from node  2
+---------------------------Block  2---------------------------
+Member authentication error at timestep  9 From account  1 To account  2, invalid reciever hash
+Double spending error at timestep  7 From account  1 To account  2 Of proposed token identifier     7
+Token does not exist error at timestep  8 From account  1 To account  2 Of proposed token identifier 6568568
+Member authentication error at timestep  9 From account  1 To account  2, invalid reciever hash
+Double spending error at timestep  7 From account  1 To account  2 Of proposed token identifier     7
+Token does not exist error at timestep  8 From account  1 To account  2 Of proposed token identifier 6568568
+Member authentication error at timestep  9 From account  1 To account  2, invalid reciever hash
+Double spending error at timestep  7 From account  1 To account  2 Of proposed token identifier     7
+Token does not exist error at timestep  8 From account  1 To account  2 Of proposed token identifier 6568568
+Member authentication error at timestep  9 From account  1 To account  2, invalid reciever hash
+Double spending error at timestep  7 From account  1 To account  2 Of proposed token identifier     7
+Token does not exist error at timestep  8 From account  1 To account  2 Of proposed token identifier 6568568
+Byzantine error occured from node  3
+---------------------------Block  3---------------------------
+Member authentication error at timestep 10 From account  1 To account  2, invalid sender hash
+Token does not exist error at timestep 13 From account  2 To account  1 Of proposed token identifier 22222
+Member authentication error at timestep 10 From account  1 To account  2, invalid sender hash
+Token does not exist error at timestep 13 From account  2 To account  1 Of proposed token identifier 22222
+Member authentication error at timestep 10 From account  1 To account  2, invalid sender hash
+Token does not exist error at timestep 13 From account  2 To account  1 Of proposed token identifier 22222
+Member authentication error at timestep 10 From account  1 To account  2, invalid sender hash
+Token does not exist error at timestep 13 From account  2 To account  1 Of proposed token identifier 22222
+Byzantine error occured from node  4
+---------------------------Block  4---------------------------
